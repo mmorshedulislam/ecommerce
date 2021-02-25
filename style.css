@@ -930,11 +930,11 @@ hr:not([size]) {
 }
 .top-ratings-single-item-details{}
 .top-ratings-single-item-details a h4{
-    color: : #444444;
+    color: : #444;
     font-size: 1.4rem;
 }
 .top-ratings-single-item-details a h4 {
-    color: #444444;
+    color: #444;
     font-size: 1.4rem;
 }
 .top-ratings-single-item-details span{
